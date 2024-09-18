@@ -8,6 +8,7 @@ sudo apt-get update
 
 # Symlinks
 ln -s .bashrc ~/.bashrc
+ln .gitconfig ~/.git
 
 # Install Software
 sudo apt install neofetch nvim xclip
