@@ -11,4 +11,7 @@ ln -s .bashrc ~/.bashrc
 ln .gitconfig ~/.git
 
 # Install Software
-sudo apt install neofetch nvim xclip
+sudo apt install neofetch
+sudo apt install nvim
+sudo apt install xclip
+sudo apt install build-essential
