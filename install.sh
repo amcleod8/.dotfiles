@@ -7,7 +7,7 @@ sudo apt update
 sudo apt-get update
 
 # Symlinks
-ln -s .bashrc ~/.bashrc
+ln .bashrc ~/.bashrc
 ln .gitconfig ~/.git
 
 # Install Software
