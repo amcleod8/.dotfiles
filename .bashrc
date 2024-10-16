@@ -119,4 +119,4 @@ fi
 # Environment Variables
 sharepoint_repos="/mnt/c/users/amcleod/OneDrive - Albireo Energy/GIT Repos"
 personal_repos="/mnt/c/users/amcleod/OneDrive - Albireo Energy/Personal_Repos"
-local_repos="~/local_repos"
+repos="~/repos"
